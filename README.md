@@ -24,4 +24,4 @@ This repository contains demo files of Graphica Unlock App, created in 2023.
 ![Successfully set passowrd](assets/15)
 
 ## 📄 Documentation 
-The detailed project report is available [here]
+The detailed project report is available [here](GRAPHICA UNLOCK REPORT.pdf)
